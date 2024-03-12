@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=200&section=header&text=ejuun's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-### Hi there 👋
 
 <!--
+### Hi there 👋
+
 **ejuun/ejuun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -52,7 +53,7 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
-### 🛠️ Learning
+### 🤔 Learning
 
 <table>
         <tr>
@@ -73,15 +74,15 @@ Here are some ideas to get you started:
 | 2023.08 - 2023.10 | [Billage](https://github.com/B-108/Billage)                    | 가까운 지인과의 안전한 거래를 위한 어플리케이션     | Front-End |
 | 2023.07 - 2023.08 | [Pet&Met](https://github.com/ejuun/PetandMet)                         | WebRTC를 활용한 보호동물 입양장려 서비스             | Front-End |
 
-### 💻 Status
+### 🌱 Status
 
 |GIT STATUS|
 |---|
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejuun&show_icons=true&theme=tokyonight)|
 </div>
 
-|Problem Solving|
-|---|
+### 🔭 Problem Solving
+
 <div>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ljus">
   <img src="http://mazandi.herokuapp.com/api?handle=ljus&theme=warm"/>
